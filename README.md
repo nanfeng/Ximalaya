@@ -54,7 +54,7 @@ PS：如果觉得这个项目不错，请一定为我点亮star，这对我很�
 ### 请作者喝一杯可乐
 
 <p float="left">
-  <img src="https://s2.loli.net/2023/03/03/Grg85kWcdDzMLBH.jpg" width="35%" />
-  <img src="https://s2.loli.net/2023/03/03/E3zoxFskr8M7DKS.jpg" width="35%" />
+  <img src="" width="35%" />
+  <img src="" width="35%" />
 </p>
 
